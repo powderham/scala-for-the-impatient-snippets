@@ -16,8 +16,10 @@ test1: String = new test string
 
 
 
-Scala has the same while and do loops as Java and C++. For example,
-while (n > 0) {
+"Scala has the same while and do loops as Java and C++. For example,
+while"
+ (n > 0) {
+
  r = r * n
  n -= 1
 }
